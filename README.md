@@ -1,2 +1,0 @@
-# angTest
-Created with CodeSandbox
